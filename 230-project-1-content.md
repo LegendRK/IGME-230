@@ -1,4 +1,4 @@
-# Asteroid Arena
+# Galactic Gambit 
 
 ## I. High Concept
 Imagine Galaga, but with an entire open area from where enemies come from to attack.
@@ -33,6 +33,23 @@ The player will be taught the game through onscreen prompts as the game begins. 
 so they will have time to 
 
 ### Player learning
+As the game goes on, the player will learn what they need to do to win the game: stay alive. There will be a counter
+indicating the numbered wave they have, and GUI showing what kind of weapons they have (default is laser, but can switch to bombs to
+destroy larger groups).
 
+
+## VII. Screenshots
+![alt text](https:people.rit.edu/230/images/screenshot1.png "Game Screenshot Basic")
+![alt text](https:people.rit.edu/230/images/screenshot2.png "Game Screenshot Bomb")
+
+
+## VIII. Other
+This game will be developed using JavaScript.
+
+## IX. About the developer(s)
+My name is Rohit Kaushik, and I am a 2nd year Game Design and Development student
+attending the Rochester Institute of Technology. My skill set includes programming in languages
+like C, C#, Python, and HTML/CSS, as well as proficency in applications such as Autodesk Maya, Adobe Photoshop,
+Piskel, and more. My interests include programming, art designing, and writing.
 
 
