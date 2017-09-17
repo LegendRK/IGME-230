@@ -39,8 +39,8 @@ destroy larger groups).
 
 
 ## VII. Screenshots
-![alt text](https:people.rit.edu/230/images/screenshot1.png "Game Screenshot Basic")
-![alt text](https:people.rit.edu/230/images/screenshot2.png "Game Screenshot Bomb")
+![There should be regular scene here](https://people.rit.edu/230/images/screenshot1.png "Game Screenshot Basic")
+![There should be a bomb here](https://people.rit.edu/230/images/screenshot2.png "Game Screenshot Bomb")
 
 
 ## VIII. Other
