@@ -1,10 +1,10 @@
 # Galactic Gambit 
 
 ## I. High Concept
-Imagine Galaga, but with an entire open area from where enemies come from to attack.
+Imagine Galaga, but with an entire open area from where enemies come from to attack, rather than linear progression.
 
 ## II. Genre
-The genre of this game is space shooter
+The genre of this game is space shooter.
 
 ## III. Platform
 This game will be developed for a desktop environment for the user to play on. However, the controls should
@@ -39,8 +39,6 @@ destroy larger groups).
 
 
 ## VII. Screenshots
-<img src="http://people.rit.edu/230/images/screenshot1.png" alt="Shooting Enemies"border="10" />
-<img src="http://people.rit.edu/230/images/screenshot2.png" alt="Throwing a Bomb"border="10" />
 ![There should be regular scene here](https://github.com/LegendRK/IGME-230/blob/master/images/screenshot1.png "Game Screenshot Basic")
 ![There should be a bomb here](https://github.com/LegendRK/IGME-230/blob/master/images/screenshot2.png "Game Screenshot Bomb")
 
