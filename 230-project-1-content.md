@@ -39,6 +39,8 @@ destroy larger groups).
 
 
 ## VII. Screenshots
+<img src="http://people.rit.edu/230/images/screenshot1.png" alt="Shooting Enemies"border="10" />
+<img src="http://people.rit.edu/230/images/screenshot2.png" alt="Throwing a Bomb"border="10" />
 ![There should be regular scene here](https://github.com/LegendRK/IGME-230/blob/master/images/screenshot1.png "Game Screenshot Basic")
 ![There should be a bomb here](https://github.com/LegendRK/IGME-230/blob/master/images/screenshot2.png "Game Screenshot Bomb")
 
